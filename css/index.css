@@ -1,0 +1,8 @@
+body, html {height: 100%}
+
+.bgImg{
+    background-image: url('../images/image.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+} 
